@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-
+import App from "./components/App";
 
 ReactDOM.render(
-  <h1>Keeper App Starter File</h1>,
+  <App />,
   document.getElementById("root")
 );
